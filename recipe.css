@@ -1,0 +1,14 @@
+body{
+  text-align:center;
+  background-color: aqua;
+  color: antiquewhite;
+  font-family: monospace;
+  font-size: 30;
+    }
+
+img{
+    
+   margin-top: 40px;
+   border:  5px bisque solid; 
+   border-radius:  40px;
+}
